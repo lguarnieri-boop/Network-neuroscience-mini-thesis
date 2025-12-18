@@ -1,0 +1,7 @@
+ "FA-Act"    "is a hub of the fatigu…"    "0.302"
+
+    "SocF"    "is a hub of the fatigu…"    "0.144"
+
+    "EmotWB"    "is a hub of the fatigu…"    "0.154"
+
+    "PhF"    "is a hub of the fatigu…"    "0.363"

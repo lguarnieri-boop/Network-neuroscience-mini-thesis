@@ -1,0 +1,12 @@
+ "FA-Fs"    "is a hub of the Lowgrad…"    "0.338"
+
+    "PhF"    "is a hub of the Lowgrad…"    "0.287"
+
+    "FutU"    "is a hub of the Lowgrad…"    "0.063"
+
+    "Depr"    "is a hub of the Lowgrad…"    "0.3"
+
+    "EmotWB"    "is a hub of the Lowgrad…"    "0.184"
+
+
+The original difference in hubs has a p-value of 0.321

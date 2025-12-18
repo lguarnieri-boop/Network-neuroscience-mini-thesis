@@ -1,0 +1,9 @@
+  "FA-Fs"    "is a hub of the highgra…"    "0.347"
+
+    "PhF"    "is a hub of the highgra…"    "0.134"
+
+    "SocF"    "is a hub of the highgra…"    "0.514"
+
+    "FA-Con"    "is a hub of the highgra…"    "0.226"
+
+    "FA-Mot"    "is a hub of the highgra…"    "0.321"

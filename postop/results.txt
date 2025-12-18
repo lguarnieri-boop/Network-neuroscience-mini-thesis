@@ -1,0 +1,9 @@
+ "FA-Fs"    "is a hub of the Postsur…"    "0.334"
+
+    "Depr"    "is a hub of the Postsur…"    "0.132"
+
+    "PhF"    "is a hub of the Postsur…"    "0.322"
+
+    "FutU"    "is a hub of the Postsur…"    "0.219"
+
+    "Motor"    "is a hub of the Postsur…"    "0.261"

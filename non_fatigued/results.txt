@@ -1,0 +1,9 @@
+ "PhF"    "is a hub of the non-fa…"    "0.046"
+
+    "FA-Mot"    "is a hub of the non-fa…"    "0.301"
+
+    "FA-Fs"    "is a hub of the non-fa…"    "0.681"
+
+    "FA-Act"    "is a hub of the non-fa…"    "0.436"
+
+The original difference in hubs has a p-value of 0.363
